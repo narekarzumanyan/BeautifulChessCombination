@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Chess">
+</Property><Property Name="Solution File" Value="C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess.suo">
+</Property><Property Name="Date" Value="Saturday, March 16, 2013">
+</Property><Property Name="Time" Value="18:17 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Chess.sln" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Chess.suo" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess.suo">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\Chess.csproj" Description="Project file successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\Chess.csproj">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\Chess.csproj.user" Description="Project user file successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\Chess.csproj.user">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\AboutBox.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\AboutBox.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\AboutBox.Designer.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\AboutBox.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\CaptureBar.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\CaptureBar.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\ChessMain.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\ChessMain.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\GameUI.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\GameUI.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\Images.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\Images.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\NewGame.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\NewGame.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\SelectPiece.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\SelectPiece.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\Sounds.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\Sounds.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\Squar.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\Squar.cs">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\App.ico" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\App.ico">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\AboutBox.resx" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\AboutBox.resx">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\CaptureBar.resx" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\CaptureBar.resx">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\ChessMain.resx" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\ChessMain.resx">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\NewGame.resx" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\NewGame.resx">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\SelectPiece.resx" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\SelectPiece.resx">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\Squar.resx" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\Chess\Squar.resx">
+</Event><Event ErrorLevel="1" Project="Chess" Source="Chess\Chess.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\Chess.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Chess" Source="Chess\Chess.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\ChessLibrary.csproj" Description="Project file successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\ChessLibrary.csproj">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\ChessLibrary.csproj.user" Description="Project user file successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\ChessLibrary.csproj.user">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\Board.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\Board.cs">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\Cell.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\Cell.cs">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\ChessCells.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\ChessCells.cs">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\Game.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\Game.cs">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\Move.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\Move.cs">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\Piece.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\Piece.cs">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\Player.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\Player.cs">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\Rules.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\Rules.cs">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\Side.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\Side.cs">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\XmlHelper.cs" Description="File successfully backed up as C:\Users\Narek\Desktop\Chess base\Chess Source Code\Backup\ClassLibrary\XmlHelper.cs">
+</Event><Event ErrorLevel="1" Project="ChessLibrary" Source="ClassLibrary\ChessLibrary.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\ChessLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ChessLibrary" Source="ClassLibrary\ChessLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Chess.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Chess.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Chess" Source="Chess\Chess.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ChessLibrary" Source="ClassLibrary\ChessLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

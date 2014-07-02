@@ -1,0 +1,27 @@
+D:\Projects\Misc\Chess\ClassLibrary\bin\Debug\Chessbrary.dll
+D:\Projects\Misc\Chess\ClassLibrary\bin\Debug\Chessbrary.pdb
+D:\Projects\Misc\Chess\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Misc\Chess\ClassLibrary\obj\Debug\Chessbrary.dll
+D:\Projects\Misc\Chess\ClassLibrary\obj\Debug\Chessbrary.pdb
+D:\Projects\Misc\Chess\Working\ClassLibrary\bin\Debug\Chessbrary.dll
+D:\Projects\Misc\Chess\Working\ClassLibrary\bin\Debug\Chessbrary.pdb
+D:\Projects\Misc\Chess\Working\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Misc\Chess\Working\ClassLibrary\obj\Debug\Chessbrary.dll
+D:\Projects\Misc\Chess\Working\ClassLibrary\obj\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\ClassLibrary\bin\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\ClassLibrary\bin\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\ClassLibrary\obj\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\ClassLibrary\obj\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\ClassLibrary\bin\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\ClassLibrary\bin\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\ClassLibrary\obj\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\ClassLibrary\obj\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\ClassLibrary\obj\Debug\ChessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\ClassLibrary\bin\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\ClassLibrary\bin\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\ClassLibrary\obj\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\ClassLibrary\obj\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\ClassLibrary\bin\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\ClassLibrary\bin\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\ClassLibrary\obj\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\ClassLibrary\obj\Debug\Chessbrary.pdb

@@ -1,0 +1,141 @@
+D:\Projects\Misc\Chess\Chess\obj\Debug\Chess.exe
+D:\Projects\Misc\Chess\Chess\obj\Debug\Chess.pdb
+D:\Projects\Misc\Chess\Chess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Misc\Chess\Chess\obj\Debug\Chess.CaptureBar.resources
+D:\Projects\Misc\Chess\Chess\obj\Debug\Chess.ChessMain.resources
+D:\Projects\Misc\Chess\Chess\obj\Debug\Chess.NewGame.resources
+D:\Projects\Misc\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\Projects\Misc\Chess\Chess\obj\Debug\Chess.SelectPiece.resources
+D:\Projects\Misc\Chess\Chess\obj\Debug\Chess.Squar.resources
+D:\Projects\Misc\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+D:\Projects\Misc\Chess\Chess\bin\Debug\Chess.exe
+D:\Projects\Misc\Chess\Chess\bin\Debug\Chess.pdb
+D:\Projects\Misc\Chess\Chess\bin\Debug\Chessbrary.dll
+D:\Projects\Misc\Chess\Chess\bin\Debug\Chessbrary.pdb
+D:\Projects\Misc\Chess\Chess\obj\Debug\Chess.AboutBox.resources
+D:\Projects\Misc\Chess\Working\Chess\bin\Debug\Chess.exe
+D:\Projects\Misc\Chess\Working\Chess\bin\Debug\Chess.pdb
+D:\Projects\Misc\Chess\Working\Chess\bin\Debug\Chessbrary.dll
+D:\Projects\Misc\Chess\Working\Chess\bin\Debug\Chessbrary.pdb
+D:\Projects\Misc\Chess\Working\Chess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.AboutBox.resources
+D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.CaptureBar.resources
+D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.ChessMain.resources
+D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.NewGame.resources
+D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.SelectPiece.resources
+D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.Squar.resources
+D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.exe
+D:\Projects\Misc\Chess\Working\Chess\obj\Debug\Chess.pdb
+C:\Users\Narek\Downloads\Chess Source Code\Chess\obj\Debug\Chess.exe
+C:\Users\Narek\Downloads\Chess Source Code\Chess\obj\Debug\Chess.pdb
+C:\Users\Narek\Downloads\Chess Source Code\Chess\bin\Debug\Chess.exe
+C:\Users\Narek\Downloads\Chess Source Code\Chess\bin\Debug\Chess.pdb
+C:\Users\Narek\Downloads\Chess Source Code\Chess\bin\Debug\Chessbrary.dll
+C:\Users\Narek\Downloads\Chess Source Code\Chess\bin\Debug\Chessbrary.pdb
+C:\Users\Narek\Downloads\Chess Source Code\Chess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Narek\Downloads\Chess Source Code\Chess\obj\Debug\Chess.AboutBox.resources
+C:\Users\Narek\Downloads\Chess Source Code\Chess\obj\Debug\Chess.CaptureBar.resources
+C:\Users\Narek\Downloads\Chess Source Code\Chess\obj\Debug\Chess.ChessMain.resources
+C:\Users\Narek\Downloads\Chess Source Code\Chess\obj\Debug\Chess.NewGame.resources
+C:\Users\Narek\Downloads\Chess Source Code\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Narek\Downloads\Chess Source Code\Chess\obj\Debug\Chess.SelectPiece.resources
+C:\Users\Narek\Downloads\Chess Source Code\Chess\obj\Debug\Chess.Squar.resources
+C:\Users\Narek\Downloads\Chess Source Code\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Narek\Desktop\New folder\Chess base\Chess Source Code\Chess\obj\Debug\Chess.exe
+C:\Users\Narek\Desktop\New folder\Chess base\Chess Source Code\Chess\obj\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\obj\Debug\Chess.exe
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\obj\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\bin\Debug\Chess.exe
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\bin\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\bin\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\bin\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\obj\Debug\Chess.CaptureBar.resources
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\obj\Debug\Chess.ChessMain.resources
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\obj\Debug\Chess.SelectPiece.resources
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\obj\Debug\Chess.Squar.resources
+C:\Users\Narek\Desktop\Chess base\Chess Source Code\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\obj\Debug\Chess.exe
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\obj\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\obj\Debug\Chess.CaptureBar.resources
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\obj\Debug\Chess.ChessMain.resources
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\obj\Debug\Chess.SelectPiece.resources
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\obj\Debug\Chess.Squar.resources
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\bin\Debug\Chess.exe
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\bin\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\bin\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Chess baseOLD - Copy\Chess Source Code\Chess\bin\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.exe
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\bin\Debug\Chess.exe
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\bin\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\bin\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\bin\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.CaptureBar.resources
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.ChessMain.resources
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.SelectPiece.resources
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.Squar.resources
+C:\Users\Narek\Desktop\Թեզ\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.exe
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\bin\Debug\Chess.exe
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\bin\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\bin\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\bin\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.ChessMain.resources
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.SelectPiece.resources
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.Squar.resources
+C:\Users\Narek\Desktop\Chess baseBestVersion\Chess Source Code\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.exe
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.pdb
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chess.exe
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chess.pdb
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chessbrary.dll
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chessbrary.pdb
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.ChessMain.resources
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.Properties.Resources.resources
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.SelectPiece.resources
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.Squar.resources
+F:\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.exe
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chess.exe
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.ChessMain.resources
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.SelectPiece.resources
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.Squar.resources
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chess.exe.config
+C:\Users\Narek\Desktop\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.Result.resources
+D:\Desctop\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chess.exe.config
+D:\Desctop\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.exe
+D:\Desctop\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chess.exe.config
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.exe
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chess.exe
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chess.pdb
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chessbrary.dll
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\bin\Debug\Chessbrary.pdb
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.ChessMain.resources
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.Result.resources
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.SelectPiece.resources
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.Squar.resources
+C:\Users\Narek\Desktop\Tez\Chess baseBestVersionNew\Chess Source Code\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
